@@ -2,4 +2,5 @@ Hola mi nombre es Carlos Perez, nací en Colombia.
 
 En la actualidad tengo 20 años.
 
-Me gusta la música y los deportes.
+Me gusta la música y los deportes, además de programar.
+Futuro Frontend Developer.
